@@ -13,12 +13,12 @@ doctrine_mongodb:
                 frontend:
                     class:     Pumukit\CoreBundle\Filter\WebTVFilter
                     enabled:   false
-                channel:
-                    class:     Pumukit\CoreBundle\Filter\ChannelFilter
-                    enabled:   false
                 backoffice:
                     class:     Pumukit\CoreBundle\Filter\AdminFilter
                     enabled:   false
                 personal:
                     class:     Pumukit\CoreBundle\Filter\PersonalFilter
+                    enabled:   false
+                microsite:
+                    class:     Pumukit\CoreBundle\Filter\MicrositeFilter
                     enabled:   false
