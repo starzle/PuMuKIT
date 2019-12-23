@@ -94,7 +94,13 @@ class PumukitExtension extends AbstractExtension
             new TwigFunction('live_event_session', [$this, 'getLiveEventSession']),
             new TwigFunction('precinct_of_mmo', [$this, 'getPrecinctOfMultimediaObject']),
             new TwigFunction('count_published_mmobjs', [$this, 'getMMobjsFromSerie']),
+            new TwigFunction('redirect_to_login_page', [$this, 'redirectToLoginPage']),
         ];
+    }
+
+    public function redirectToLoginPage()
+    {
+        header("Location: /login");
     }
 
     /**
