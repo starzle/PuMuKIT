@@ -167,7 +167,7 @@
       </trans-unit>
       <trans-unit id="HrIRRTj" resname="Multimedia object search">
         <source>Multimedia object search</source>
-        <target state="translated">多媒體物件搜索</target>
+        <target state="translated">視頻搜索</target>
       </trans-unit>
       <trans-unit id="eO1Wgdc" resname="Not series found">
         <source>Not series found</source>
@@ -175,11 +175,11 @@
       </trans-unit>
       <trans-unit id="hjNS36v" resname="Not multimedia objects found.">
         <source>Not multimedia objects found.</source>
-        <target state="translated">找到不多媒體物件。</target>
+        <target state="translated">找到不視頻。</target>
       </trans-unit>
       <trans-unit id="OrWf0.0" resname="Download master">
         <source>Download master</source>
-        <target state="translated">下載大師</target>
+        <target state="translated">下載主視頻</target>
       </trans-unit>
       <trans-unit id="WEBL323" resname="403 Forbidden">
         <source>403 Forbidden</source>
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="AoHCxeq" resname="This series does not have any multimedia objects.">
         <source>This series does not have any multimedia objects.</source>
-        <target state="translated">這一系列沒有任何多媒體物件。</target>
+        <target state="translated">這一系列沒有任何視頻。</target>
       </trans-unit>
       <trans-unit id="TYk2RBQ" resname="{0}no videos yet|{1}1 video|]1,Inf[%count% videos">
         <source>{0}no videos yet|{1}1 video|]1,Inf[%count% videos</source>
@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="jh2INdQ" resname="Most viewed">
         <source>Most viewed</source>
-        <target state="translated">最多觀看次數</target>
+        <target state="translated">最多觀看</target>
       </trans-unit>
       <trans-unit id="luxdM4r" resname="Recently added">
         <source>Recently added</source>
@@ -219,7 +219,7 @@
       </trans-unit>
       <trans-unit id="bSMv3zK" resname="Full Catalogue">
         <source>Full Catalogue</source>
-        <target state="translated">全部分類目錄</target>
+        <target state="translated">全部分類</target>
       </trans-unit>
       <trans-unit id="yRKQJb0" resname="Sort by">
         <source>Sort by</source>
@@ -367,11 +367,11 @@
       </trans-unit>
       <trans-unit id="fWDZgc4" resname="Search by multimedia objects">
         <source>Search by multimedia objects</source>
-        <target state="translated">通過多媒體物件搜索</target>
+        <target state="translated">通過視頻搜索</target>
       </trans-unit>
       <trans-unit id="9ZBS4FK" resname="Multimedia objects search">
         <source>Multimedia objects search</source>
-        <target state="translated">多媒體物件搜索</target>
+        <target state="translated">視頻搜索</target>
       </trans-unit>
       <trans-unit id="ILgQc9Q" resname="Total search results:">
         <source>Total search results:</source>
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="6r3q15n" resname="Not multimedia objects found">
         <source>Not multimedia objects found</source>
-        <target state="translated">找不到多媒體物件。</target>
+        <target state="translated">找不到視頻。</target>
       </trans-unit>
       <trans-unit id="CuFdbuE" resname="Private audio">
         <source>Private audio</source>
@@ -443,19 +443,19 @@
       </trans-unit>
       <trans-unit id="FV_BbAQ" resname="Submit">
         <source>Submit</source>
-        <target state="needs-translation">Submit</target>
+        <target state="translated">提交</target>
       </trans-unit>
       <trans-unit id="1wfcLxk" resname="Logo">
         <source>Logo</source>
-        <target state="needs-translation">Logo</target>
+        <target state="translated">圖標</target>
       </trans-unit>
       <trans-unit id="9vRoj.I" resname="Send">
         <source>Send</source>
-        <target state="needs-translation">Send</target>
+        <target state="translated">發送</target>
       </trans-unit>
       <trans-unit id="jRT25y3" resname="Events">
         <source>Events</source>
-        <target state="needs-translation">Events</target>
+        <target state="translated">活動</target>
       </trans-unit>
       <trans-unit id="ltvt7Kf" resname="Starts">
         <source>Starts</source>
@@ -471,19 +471,19 @@
       </trans-unit>
       <trans-unit id="mnIiGid" resname="Questions">
         <source>Questions</source>
-        <target state="needs-translation">Questions</target>
+        <target state="translated">問題</target>
       </trans-unit>
       <trans-unit id="ur3H7no" resname="Download this audio">
         <source>Download this audio</source>
-        <target state="needs-translation">Download this audio</target>
+        <target state="translated">下載這個音頻</target>
       </trans-unit>
       <trans-unit id="8PrrE9j" resname="Download this video">
         <source>Download this video</source>
-        <target state="needs-translation">Download this video</target>
+        <target state="translated">下載這個視頻</target>
       </trans-unit>
       <trans-unit id="t6n1UY2" resname="Live events">
         <source>Live events</source>
-        <target state="needs-translation">Live events</target>
+        <target state="translated">直播活動</target>
       </trans-unit>
       <trans-unit id="U25e1Sx" resname="No live events now.">
         <source>No live events now.</source>
@@ -503,7 +503,7 @@
       </trans-unit>
       <trans-unit id="OnhpU4i" resname="Home">
         <source>Home</source>
-        <target state="needs-translation">Home</target>
+        <target state="translated">首頁</target>
       </trans-unit>
       <trans-unit id="pITMFRb" resname="By subject catalogue">
         <source>By subject catalogue</source>
@@ -579,7 +579,7 @@
       </trans-unit>
       <trans-unit id="9cm9ExS" resname="Show more">
         <source>Show more</source>
-        <target state="needs-translation">Show more</target>
+        <target state="translated">顯示更多</target>
       </trans-unit>
       <trans-unit id="nJRvhul" resname="Event pic">
         <source>Event pic</source>
@@ -587,15 +587,15 @@
       </trans-unit>
       <trans-unit id="ma9mBv_" resname="Menu">
         <source>Menu</source>
-        <target state="needs-translation">Menu</target>
+        <target state="translated">菜單</target>
       </trans-unit>
       <trans-unit id="MIUxXxN" resname="Sort by date">
         <source>Sort by date</source>
-        <target state="needs-translation">Sort by date</target>
+        <target state="translated">按日期排序</target>
       </trans-unit>
       <trans-unit id="OqwCASq" resname="Sort alphabetically">
         <source>Sort alphabetically</source>
-        <target state="needs-translation">Sort alphabetically</target>
+        <target state="translated">按字母排序</target>
       </trans-unit>
       <trans-unit id=".cXS6UE" resname="Powered by">
         <source>Powered by</source>
@@ -703,7 +703,7 @@
       </trans-unit>
       <trans-unit id="DKsclhd" resname="video">
         <source>video</source>
-        <target state="needs-translation">video</target>
+        <target state="translated">視頻</target>
       </trans-unit>
       <trans-unit id="926pIe3" resname="Wall">
         <source>Wall</source>

@@ -579,7 +579,7 @@
       </trans-unit>
       <trans-unit id="9cm9ExS" resname="Show more">
         <source>Show more</source>
-        <target state="needs-translation">Show more</target>
+        <target state="translated">显示更多</target>
       </trans-unit>
       <trans-unit id="nJRvhul" resname="Event pic">
         <source>Event pic</source>
@@ -587,15 +587,15 @@
       </trans-unit>
       <trans-unit id="ma9mBv_" resname="Menu">
         <source>Menu</source>
-        <target state="needs-translation">Menu</target>
+        <target state="translated">菜单</target>
       </trans-unit>
       <trans-unit id="MIUxXxN" resname="Sort by date">
         <source>Sort by date</source>
-        <target state="needs-translation">Sort by date</target>
+        <target state="translated">按日期排序</target>
       </trans-unit>
       <trans-unit id="OqwCASq" resname="Sort alphabetically">
         <source>Sort alphabetically</source>
-        <target state="needs-translation">Sort alphabetically</target>
+        <target state="translated">按字母排序</target>
       </trans-unit>
       <trans-unit id=".cXS6UE" resname="Powered by">
         <source>Powered by</source>
@@ -703,7 +703,7 @@
       </trans-unit>
       <trans-unit id="DKsclhd" resname="video">
         <source>video</source>
-        <target state="needs-translation">video</target>
+        <target state="translated">视频</target>
       </trans-unit>
       <trans-unit id="926pIe3" resname="Wall">
         <source>Wall</source>
