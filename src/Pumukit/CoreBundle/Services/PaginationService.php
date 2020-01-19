@@ -41,9 +41,9 @@ class PaginationService
     private function generatePager(AdapterInterface $adapter, int $page = 1, int $limit = 10): Pagerfanta
     {
         $pager = new Pagerfanta($adapter);
-        $pager->setMaxPerPage($page);
+        $pager->setMaxPerPage($limit);
         $pager->setNormalizeOutOfRangePages(true);
-        $pager->setCurrentPage($limit);
+        $pager->setCurrentPage($page);
 
         return $pager;
     }
