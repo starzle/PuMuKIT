@@ -229,6 +229,7 @@ img {
 }
 .bg-login {
   background-image: url('/images/login_background.jpg');
+  background-size: cover;
 }
 /* Text colors */
 .text-red {
