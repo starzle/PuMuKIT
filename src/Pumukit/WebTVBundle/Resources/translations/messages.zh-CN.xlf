@@ -571,11 +571,11 @@
       </trans-unit>
       <trans-unit id="iCgsLsi" resname="Most viewed on the last month">
         <source>Most viewed on the last month</source>
-        <target state="needs-translation">Most viewed on the last month</target>
+        <target state="translated">上月观看最多</target>
       </trans-unit>
       <trans-unit id="wodtiBE" resname="Hightlight">
         <source>Hightlight</source>
-        <target state="needs-translation">Hightlight</target>
+        <target state="translated">高亮</target>
       </trans-unit>
       <trans-unit id="9cm9ExS" resname="Show more">
         <source>Show more</source>
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="OEjvXg." resname="Full catalogue">
         <source>Full catalogue</source>
-        <target state="needs-translation">Full catalogue</target>
+        <target state="translated">全部分类</target>
       </trans-unit>
       <trans-unit id="wBHWCXv" resname="License">
         <source>License</source>
