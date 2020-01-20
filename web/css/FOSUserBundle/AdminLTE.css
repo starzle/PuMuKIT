@@ -227,6 +227,9 @@ img {
 .bg-maroon {
   background-color: #85144b !important;
 }
+.bg-login {
+  background-image: url('/images/login_background.jpg');
+}
 /* Text colors */
 .text-red {
   color: #f56954 !important;
